@@ -4,7 +4,8 @@
         "arch_exception.h": "c",
         "arch_task.h": "c",
         "os_safety.h": "c",
-        "arch_interrupt.h": "c"
+        "arch_interrupt.h": "c",
+        "xdp_tx_example_common.h": "c"
     },
 
     "search.exclude": {
