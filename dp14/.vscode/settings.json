@@ -1,0 +1,37 @@
+{
+    "files.associations": {
+        "os_task.h": "c",
+        "arch_exception.h": "c",
+        "arch_task.h": "c",
+        "os_safety.h": "c",
+        "arch_interrupt.h": "c"
+    },
+
+    "search.exclude": {
+        "**/.git"           :true,
+        "**/.gitee"         :true,
+        "doc/"             :true,
+        "data/"             :true,
+        ".clang-format*"    :true,
+        "examples/index.html" : true,
+        "examples/readme.txt" : true,
+        ".cppcheck-ignore"  :true,
+        ".gitignore"        :true,
+        ".gitlab-ci.yml"    :true,
+        "**/LICENSE"        :true
+    },
+
+    "files.exclude": {
+        "**/.git"           :true,
+        "**/.gitee"         :true,
+        "doc/"             :true,
+        "data/"             :true,
+        "examples/index.html" : true,
+        "examples/readme.txt" : true,
+        ".clang-format*"    :true,
+        ".cppcheck-ignore"  :true,
+        ".gitignore"        :true,
+        ".gitlab-ci.yml"    :true,
+        "**/LICENSE"        :true
+    }
+}
