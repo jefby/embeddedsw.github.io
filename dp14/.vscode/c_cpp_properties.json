@@ -7,7 +7,9 @@
                 "${workspaceFolder}/src/",
                 "${workspaceFolder}/examples/"
             ],
-            "defines": [],
+            "defines": [
+                "XPAR_XDPTXSS_NUM_INSTANCES=1"
+            ],
             "macFrameworkPath": [
                 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"
             ],
